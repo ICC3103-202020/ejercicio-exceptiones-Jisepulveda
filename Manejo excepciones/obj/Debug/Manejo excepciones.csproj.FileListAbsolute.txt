@@ -1,0 +1,7 @@
+C:\Users\jvism\Escritorio\ejercicio-exceptiones-Jisepulveda\Manejo excepciones\bin\Debug\Manejo excepciones.exe.config
+C:\Users\jvism\Escritorio\ejercicio-exceptiones-Jisepulveda\Manejo excepciones\bin\Debug\Manejo excepciones.exe
+C:\Users\jvism\Escritorio\ejercicio-exceptiones-Jisepulveda\Manejo excepciones\bin\Debug\Manejo excepciones.pdb
+C:\Users\jvism\Escritorio\ejercicio-exceptiones-Jisepulveda\Manejo excepciones\obj\Debug\Manejo excepciones.csprojAssemblyReference.cache
+C:\Users\jvism\Escritorio\ejercicio-exceptiones-Jisepulveda\Manejo excepciones\obj\Debug\Manejo excepciones.csproj.CoreCompileInputs.cache
+C:\Users\jvism\Escritorio\ejercicio-exceptiones-Jisepulveda\Manejo excepciones\obj\Debug\Manejo excepciones.exe
+C:\Users\jvism\Escritorio\ejercicio-exceptiones-Jisepulveda\Manejo excepciones\obj\Debug\Manejo excepciones.pdb
